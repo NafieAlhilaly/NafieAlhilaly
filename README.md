@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nafie-alhilaly/](https://www.linkedin.com/in/nafie-alhilaly/)
 
-- ⚡ Fun fact **'Nafie'|'نافع' is an Arabic name wich mean beneficial/useful/helpful person 🤗**
+- ⚡ Fun fact **'Nafie'|'نافع' is an Arabic name which mean beneficial/useful/helpful person 🤗**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
