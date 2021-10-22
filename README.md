@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nafie Alhelaly</h1>
-Interested in <h2>Data Analysis, Frontend, Backend and Python</h2>
+Interested in <h2>📊 Data Analysis, 🖥 Frontend, 🔙 Backend and 🐍 Python</h2>
 
 - 🔭 I recently finished [Analyze-coderhub-sa](https://github.com/NafieAlhilaly/analyze-coderhub-sa)
 
@@ -34,4 +34,5 @@ Interested in <h2>Data Analysis, Frontend, Backend and Python</h2>
 
 
 ----
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiealhilaly&show_icons=true&locale=en" alt="nafiealhilaly" /></p>
