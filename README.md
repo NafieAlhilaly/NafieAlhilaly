@@ -3,7 +3,7 @@ Interested in <h2>📊 Data Analysis, 🖥 Frontend, 🔙 Backend and 🐍 Pytho
 
 - 🔭 I recently finished [Analyze-coderhub-sa](https://github.com/NafieAlhilaly/analyze-coderhub-sa)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js** and **FastAPI**
 
 - 📫 How to reach me **nafiealhelaly@gmail.com**
 
