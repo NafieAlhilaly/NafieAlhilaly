@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nafie Alhelaly</h1>
 Interested in <h2>📊 Data Analysis, 🖥 Frontend, 🔙 Backend and 🐍 Python</h2>
 
-- 🔭 I recently finished [Analyze-coderhub-sa](https://github.com/NafieAlhilaly/analyze-coderhub-sa)
+- 🔭 I recently finished 🎆[my portfolio](https://nafiealhilaly.github.io)🎆
 
 - 🌱 I’m currently learning **React.js** and **FastAPI**
 
