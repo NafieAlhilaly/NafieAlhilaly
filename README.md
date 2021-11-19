@@ -5,6 +5,10 @@ Interested in <h2>📊 Data Analysis, 🖥 Frontend, 🔙 Backend and 🐍 Pytho
 
 - 🌱 I’m currently learning **React.js** and **FastAPI**
 
+- 🥇 Top Repo <a href="https://github.com/NafieAlhilaly/api-fatoora">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NafieAlhilaly&repo=api-fatoora" />
+</a>
+
 - 📫 How to reach me **nafiealhelaly@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nafie-alhilaly/](https://www.linkedin.com/in/nafie-alhilaly/)
@@ -36,3 +40,5 @@ Interested in <h2>📊 Data Analysis, 🖥 Frontend, 🔙 Backend and 🐍 Pytho
 ----
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiealhilaly&show_icons=true&locale=en" alt="nafiealhilaly" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafieAlhilaly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
