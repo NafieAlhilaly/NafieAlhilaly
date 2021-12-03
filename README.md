@@ -3,7 +3,7 @@ Interested in <h2>📊 Data Analysis, 🖥 Frontend, 🔙 Backend and 🐍 Pytho
 
 - 🔭 I recently finished 🎆[my portfolio](https://nafiealhilaly.github.io)🎆
 
-- 🌱 I’m currently learning **React.js** and **FastAPI**
+- 🌱 I’m currently learning **JavaScript** and **FastAPI**
 
 - 🥇 Top Repo <a href="https://github.com/NafieAlhilaly/api-fatoora">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NafieAlhilaly&repo=api-fatoora" />
