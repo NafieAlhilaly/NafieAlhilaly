@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nafie Alhelaly</h1>
-😎 Software Engineer 😎 at [Resal](https://resal.me/)
+<h3 align="center">😎 Software Engineer 😎 at <a href="https://www.linkedin.com/company/resal/mycompany/">Resal</a></h3>
+
 Interested in <h2>📊 Data Analysis, 🖥 Frontend, 🔙 Backend and 🐍 Python</h2>
 
 - 🔭 I recently finished 🎆[my portfolio](https://nafiealhilaly.github.io)🎆
