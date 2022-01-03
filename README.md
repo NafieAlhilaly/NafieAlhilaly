@@ -41,6 +41,6 @@ Interested in <h2>📊 Data Analysis, 🖥 Frontend, 🔙 Backend and 🐍 Pytho
 
 ----
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiealhilaly&show_icons=true&locale=en&count_private=true" alt="nafiealhilaly" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiealhilaly&show_icons=true&locale=en&private_count=true&include_all_commits=true" alt="nafiealhilaly" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NafieAlhilaly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
