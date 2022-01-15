@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nafie Alhelaly</h1>
+<h1 align="center">Hi 👋, I'm Nafie Alhelaly نافع الهلالي</h1>
 <h3 align="center">😎 Software Engineer 😎 at <a href="https://www.linkedin.com/company/resal/mycompany/">Resal</a></h3>
 
 Interested in <h2>📊 Data Analysis, 🔙 Backend and 🐍 Python</h2>
