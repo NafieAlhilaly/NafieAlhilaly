@@ -3,10 +3,14 @@
 </div>
 
 
-<div align="center"> Hi 👋,</div><h1 align="center">I'm Nafie Alhelaly نافع الهلالي</h1>
+<div align="center" > Hi 👋,</div><h1 align="center">I'm Nafie Alhelaly نافع الهلالي</h1>
 <div align="center">I'm a 😎 Software Engineer 😎 at <a href="https://www.linkedin.com/company/resal/mycompany/">Resal</a>, I enjoy building softwares 🤓</div>
-<div align="center"><a href="https://linkedin.com/in/nafie-alhilaly" target="blank"><img a src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafie-alhilaly" height="60" width="80" /></a><a href="https://www.behance.net/n-alhelaly" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/behance/behance-original-wordmark.svg" alt="nafie-alhilaly on behance" height="80" width="120" /></a></div>
+<br />
+<div>
+<div align="center" > <a href="https://linkedin.com/in/nafie-alhilaly" target="blank"><img  src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="nafie-alhilaly" height="60" width="60" /></a>
+<a href="https://www.behance.net/n-alhelaly" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" alt="nafie-alhilaly on behance" height=60" width="60" /></a></div>
 
+</div>
 <br />
 <br />
 <br />
