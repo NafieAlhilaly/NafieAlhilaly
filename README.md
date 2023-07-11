@@ -16,10 +16,10 @@
 <br />
 
 - 🔭 I recently finished 🎆[error x redesign website](https://error-x-team-website.vercel.app/)🎆
-- 🌱 I’m currently learning **Flutter** 📱
+- 🌱 I’m currently learning ** Unity / C# ** 🎮
 - 📫 How to reach me **nafiealhelaly@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/nafie-alhilaly/](https://www.linkedin.com/in/nafie-alhilaly/)
-- ⚡ Fun fact **'Nafie'|'نافع' is an Arabic name which mean beneficial/useful/helpful person 🤗**
+- ⚡ Fun fact **'Nafie'|'نافع' is an Arabic name which means beneficial/useful/helpful person 🤗**
 
 
 
