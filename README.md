@@ -1,8 +1,3 @@
-<div width="full" align="center">
-<img  src="https://media.giphy.com/media/3otPoHqjMbo6JJ1FMk/giphy.gif" alt="🔥" height="200" width="600"  />
-</div>
-
-
 <div align="center" > Hi 👋,</div><h1 align="center">I'm Nafie Alhelaly نافع الهلالي</h1>
 <div align="center">I'm a 😎 Software Engineer 😎 at <a href="https://www.linkedin.com/company/resal/mycompany/">Resal</a>, I enjoy building softwares 🤓</div>
 <br />
